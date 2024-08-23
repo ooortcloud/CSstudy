@@ -1,7 +1,0 @@
-
-
-## CSMA/CD
-
-
-## CSMA/CA
-
